@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bitaqwa App</string>
+    <string name="text_welcome">Assalamualaikum, Fulan</string>
+    <string name="text_name_pray">Subuh</string>
+    <string name="text_time_pray">04:45</string>
+    <string name="text_location_pray">Mekkah, Arab Saudi</string>
+    <string name="text_menu_doa">Doa Doa</string>
+    <string name="text_menu_dzikir">Dzikir</string>
+    <string name="text_menu_zakat">Zakat</string>
+    <string name="text_menu_jadwal_sholat">Jadal\nSholat</string>
+    <string name="text_menu_video_kajian">Video\nKajian</string>
+    <string name="text_inspirasi">Inspirasi</string>
+    <string name="text_jumlah_rupiah">Jumlah Rupiah</string>
+    <string name="text_ok">ok</string>
+</resources>
+<!--    bit.ly/feedbacktoguru-->
